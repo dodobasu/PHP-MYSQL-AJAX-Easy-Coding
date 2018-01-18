@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.blue {color: blue;}
+	.yellow {color: yellow;}
+	.red {color: red;}
+	.green {color: green;}
+	.grey {color: gray;}
+	.orange {color:#C60;}
+	
+.glyphicon-1x {font-size: 15px;}
+.glyphicon-p5x {font-size: 7px;}
+.glyphicon-1p5x {font-size: 22px;}
+.glyphicon-2x {font-size: 30px;}
+.glyphicon-2p5x {font-size: 37px;}
+.glyphicon-3x {font-size: 45px;}
+
+.easy_crud_error{font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#F00; background:#FFC; font-style:italic; padding:2px;}
