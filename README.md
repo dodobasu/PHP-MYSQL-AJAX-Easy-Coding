@@ -4,7 +4,7 @@ Easy way to setup MYSQL PHP AJAX connection.N o need to learn lengthy PHP, Javas
 
 ## Getting Started
 
-see
+see [GitHub](http://github.com/dodobasu/documentation.pdf)
 
 
 ### Prerequisites
