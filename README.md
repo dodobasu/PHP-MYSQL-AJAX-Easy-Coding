@@ -4,7 +4,7 @@ Easy way to setup MYSQL PHP AJAX connection.N o need to learn lengthy PHP, Javas
 
 ## Getting Started
 
-see [GitHub](http://github.com/dodobasu/documentation.pdf)
+see [GitHub](https://github.com/dodobasu/easy_mysql_crud/blob/master/EASY%20CRUD%20DOCUMENTATION.pdf)
 
 
 ### Prerequisites
@@ -15,7 +15,7 @@ You need
 3) MYSQL (5 +)
 4) All Jquery Dependency included in assets folder (Dont change it)
 
- [See EASY CRUD DOCUMENTATION] ](EASY CRUD DOCUMENTATION.pdf/)
+ [See EASY CRUD DOCUMENTATION] ](https://github.com/dodobasu/easy_mysql_crud/blob/master/EASY%20CRUD%20DOCUMENTATION.pdf)
 ```
 
 
