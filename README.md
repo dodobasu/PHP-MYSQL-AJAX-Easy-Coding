@@ -1,10 +1,10 @@
 # MYSQL PHP AJAX CRUD
 
-Easy way to setup MYSQL PHP AJAX connection.N o need to learn lengthy PHP, Javascript Just HTML Form and basic Javascript 
+Easy way to setup MYSQL PHP AJAX connection.N o need to learn lengthy PHP, Javascript Just HTML Form and basic Javascript.
 
 ## Getting Started
 
-see [GitHub](https://github.com/dodobasu/easy_mysql_crud/blob/master/EASY%20CRUD%20DOCUMENTATION.pdf)
+Go through [See ](https://github.com/dodobasu/easy_mysql_crud/blob/master/EASY%20CRUD%20DOCUMENTATION.pdf)
 
 
 ### Prerequisites
@@ -15,7 +15,7 @@ You need
 3) MYSQL (5 +)
 4) All Jquery Dependency included in assets folder (Dont change it)
 
- [See EASY CRUD DOCUMENTATION] ](https://github.com/dodobasu/easy_mysql_crud/blob/master/EASY%20CRUD%20DOCUMENTATION.pdf)
+ [See EASY CRUD DOCUMENTATION](https://github.com/dodobasu/easy_mysql_crud/blob/master/EASY%20CRUD%20DOCUMENTATION.pdf)
 ```
 
 
